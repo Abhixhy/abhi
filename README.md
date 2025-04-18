@@ -1,3 +1,3 @@
 # abhi
-##jnit_demo
+# jnit demo
 ## this is demo
